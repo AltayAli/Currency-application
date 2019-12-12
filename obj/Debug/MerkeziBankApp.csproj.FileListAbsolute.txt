@@ -1,0 +1,9 @@
+C:\Users\ALTAY\source\repos\XMLExcesises\MerkeziBankApp\bin\Debug\MerkeziBankApp.exe.config
+C:\Users\ALTAY\source\repos\XMLExcesises\MerkeziBankApp\bin\Debug\MerkeziBankApp.exe
+C:\Users\ALTAY\source\repos\XMLExcesises\MerkeziBankApp\bin\Debug\MerkeziBankApp.pdb
+C:\Users\ALTAY\source\repos\XMLExcesises\MerkeziBankApp\obj\Debug\MerkeziBankApp.csprojAssemblyReference.cache
+C:\Users\ALTAY\source\repos\XMLExcesises\MerkeziBankApp\obj\Debug\MerkeziBankApp.Form1.resources
+C:\Users\ALTAY\source\repos\XMLExcesises\MerkeziBankApp\obj\Debug\MerkeziBankApp.Properties.Resources.resources
+C:\Users\ALTAY\source\repos\XMLExcesises\MerkeziBankApp\obj\Debug\MerkeziBankApp.csproj.GenerateResource.cache
+C:\Users\ALTAY\source\repos\XMLExcesises\MerkeziBankApp\obj\Debug\MerkeziBankApp.exe
+C:\Users\ALTAY\source\repos\XMLExcesises\MerkeziBankApp\obj\Debug\MerkeziBankApp.pdb
